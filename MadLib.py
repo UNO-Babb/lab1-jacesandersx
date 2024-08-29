@@ -16,7 +16,7 @@ def main():
   noun7 = input("A Color : ")
 
   #Print the story with the user supplied words.
-  Print(""Once upon a time, there was a " + noun1 "Princess named " + noun2 "she was from " + noun3 ". She lived in a beautiful kingdom on the hills called " + noun4 "She had five " + noun5 ,"while she was " + noun6 "the horse. She fell off and her dress stained " + noun7 "."")
+  Print("Once upon a time, there was a " +noun1 +" Princess named " +noun2 +" she was from " +noun3 +". She lived in a beautiful kingdom on the hills called " +noun4 +" She had five " +noun5 +" while she was " +noun6 +" the horse. She fell off and her dress stained " +noun7 +"."")
 
 
 #Call the main function if this is the file being run.
